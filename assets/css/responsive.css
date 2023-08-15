@@ -1,0 +1,574 @@
+  
+/* Responsive Querries */
+ @media(min-width:1920px){
+}
+ @media(max-width:1920px){
+}
+ @media(max-width:1880px){
+}
+ @media(max-width:1780px){
+     .service-slider {
+         margin-top: -305px;
+    }
+}
+ @media(max-width:1680px){
+}
+ @media (max-width: 1600px) {
+     .service-slider {
+         margin-top: -338px;
+    }
+}
+ @media(max-width:1540px){
+     .service-slider {
+         margin-top: -338px;
+    }
+     .dowload-our {
+         height: 1046px;
+    }
+}
+ @media(max-width:1480px){
+     .Meet-Your-Trainer p {
+         font-size: 16px;
+         font-family: 'Poppins', sans-serif;
+    }
+}
+ @media(max-width:1440px){
+  
+}
+ @media(max-width: 1367px) {
+     .dowload-our {
+         height: 959px;
+    }
+     header .banner h1 {
+         font-size: 90px;
+    }
+     header {
+         min-height: 590px;
+    }
+     .dowload-our h1 {
+         font-size: 37px;
+    }
+     .start-transformaing h1{
+         font-size: 37px;
+    }
+     .intofit-cocahing h1{
+         font-size: 37px;
+         max-width: 507px;
+         text-align: center;
+    }
+     #pills-tabContent h1{
+         font-size: 37px;
+    }
+     .clinet-slider-wraper h1{
+         font-size: 37px;
+    }
+     .Why-Choose-intofit h1{
+         font-size: 37px;
+    }
+     .Meet-Your-Trainer h1{
+         font-size: 37px;
+    }
+     .service-slider h5 {
+         font-size: 17px;
+    }
+     .service-slider .card p {
+         font-size: 14px;
+    }
+     #clinet-slider .card p {
+         font-size: 13px;
+    }
+     .Subscribe h1 {
+         font-size: 37px;
+    }
+     .take-the-next h1{
+         font-size: 37px;
+    }
+     .feel-free h1{
+         font-size: 37px;
+    }
+     .fitness-all-about .main-title {
+         font-size: 37px;
+    }
+     .fitness-all-about p {
+         font-size: 16px;
+    } 
+     .Meet-Your-Trainer p {
+         font-size: 16px;
+         font-family: 'Poppins', sans-serif;
+    }
+}
+ @media(max-width:1280px){
+}
+ @media(max-width:1199px){
+     #online-reputation .owl-dots {
+         text-align: center;
+         margin-top: 36px;
+    }
+     header nav.navbar {
+         background: black;
+    }
+    .contact-us.banner {
+         width: 85%;
+    }
+     .dowload-our {
+         height: 905px;
+    }
+    header .navbar-light .btn-light { 
+    font-size: 11px;
+     width: 130px;
+}
+header .navbar-light .btn-danger { 
+    font-size: 11px;
+     width: 130px;
+}
+}
+ @media (max-width: 991px) {
+      header .navbar-light .btn-light { 
+    font-size: 13px;
+     width: 100%;
+      min-height: 40px;
+     border-radius: 50px;
+}
+header .navbar-light .btn-danger { 
+    font-size: 13px;
+   width: 100%;
+   min-height: 40px;
+     border-radius: 50px;
+}
+   header .mobile-list {
+    display: block;
+}
+header .mobile-list ul{
+    display: flex;
+}
+     .contact-us-list ul li a {
+         font-size: 13px;
+    }
+     .fitness-all-about {
+         padding: 11px 0px;
+    }
+     .service-slider .owl-dots {
+         display: block;
+         text-align: center;
+         margin-top: 30px;
+    }
+     header {
+         min-height: 470px;
+    }
+     header .banner h1 {
+         font-size: 70px;
+    }
+     header .banner p {
+         font-size: 15px;
+         max-width: 250px;
+    }
+     header .banner .btn-danger {
+         margin-top: 5px !important;
+    }
+     .clinet-slider-wraper h1{
+         font-size: 32px;
+    }
+     .dowload-our h1 {
+         font-size: 32px;
+    }
+     .feel-free h1{
+         font-size: 32px;
+    }
+     .intofit-cocahing h1{
+         font-size: 32px;
+    }
+     .take-the-next h1{
+         font-size: 32px;
+    }
+     #pills-tabContent h1{
+         font-size: 32px;
+    }
+     .start-transformaing h1{
+         font-size: 32px;
+    }
+     .Why-Choose-intofit h1{
+         font-size: 32px;
+    }
+     .Meet-Your-Trainer h1{
+         font-size: 32px;
+    }
+     .fitness-all-about .main-title {
+         font-size: 32px;
+         max-width: 400px;
+    }
+     .Subscribe h1 {
+         font-size: 32px;
+    }
+     .feel-free h1{
+         font-size: 37px;
+         text-align: center;
+    }
+     .service-slider h5 {
+         font-size: 16px;
+    }
+     .service-slider .card p {
+         font-size: 14px;
+    }
+     #clinet-slider .card p {
+         font-size: 13px;
+    }
+     .fitness-all-about p {
+         font-size: 14px;
+    }
+     footer p {
+         font-size: 12px;
+    }
+     .after-line-two:after {
+         right: 12px;
+    }
+    /*.service-slider {
+         padding-top: 13px;
+         margin-top: 17px;
+    }
+    */
+     .intofit-cocahing h4 {
+         font-size: 17px;
+    }
+     .Meet-Your-Trainer p {
+         font-size: 15px;
+         font-family: 'Poppins', sans-serif;
+    }
+     .Meet-Your-Trainer ul li a {
+         font-size: 13px;
+    }
+     .Meet-Your-Trainer {
+         background: url(../images/Meet-Your-Trainer-bg.png);
+         background-size: contain !important;
+         background-position: center !important;
+         background-repeat: no-repeat !important;
+         padding: 3px 0px 40px;
+         margin: 20px 0px 0;
+    }
+     #pills-tabContent p {
+         font-size: 15px;
+    }
+     .feel-free p{
+         font-size: 15px;
+         text-align: center !important;
+    }
+     .contact-us-list ul {
+         margin-top: 0px;
+    }
+     .Success-Stories .card p {
+         font-size: 12px;
+         margin-top: 15px;
+    }
+     .card-block.px-3 {
+         padding-left: 0 !important;
+         padding-right: 0 !important;
+    }
+    .bootcamp-main p {
+         font-size: 14px;
+    }
+     header .phone-icon a { 
+    right: 21px;
+    height: 40px; 
+    width: 40px; 
+    font-size: 24px;
+    top: 397px;
+}
+}
+ @media (max-width: 767px) {
+     .dowload-our {
+         height: 800px;
+    }
+     .contact-us-list ul li a {
+         font-size: 11px;
+    }
+     .contact-us-list ul {
+         display: -webkit-box;
+         display: -ms-flexbox;
+         display: flex;
+         -webkit-box-pack: center;
+             -ms-flex-pack: center;
+                 justify-content: center;
+         -ms-flex-wrap: wrap;
+             flex-wrap: wrap;
+    }
+     .blos-wraper-inner {
+         padding-bottom: 15px;
+    }
+    .intofit-cocahing.intofit-cocahing-main h1 {
+         text-align: center;
+    }
+     .custom-tabs .nav-pills .nav-link {
+         color: black;
+         background-color: transparent;
+         padding-left: 4px;
+         padding-right: 4px;
+         text-transform: uppercase;
+         font-size: 11px;
+    }
+    .custom-tabs .nav {
+         -webkit-box-pack: justify;
+             -ms-flex-pack: justify;
+                 justify-content: space-between;
+         border-bottom: 1px solid black;
+         padding-bottom: 12px;
+    }
+     #pills-tabContent ul li a {
+         color: black;
+         font-size: 13px;
+    }
+     #pills-tabContent p {
+         font-size: 14px;
+    }
+     .Meet-Your-Trainer ul li a {
+         font-size: 12px;
+    }
+    .clinet-slider-wraper .card {
+         max-width: 342px;
+         margin: auto;
+    }
+     .Meet-Your-Trainer p {
+         font-size: 14px;
+    }
+     #clinet-slider button.owl-prev {
+         left: 0px;
+    }
+     header {
+         min-height: 420px;
+    }
+     #clinet-slider button.owl-next{
+        right: 0px;
+    }
+     .after-line:after {
+         display: none;
+    }
+     .after-line-two:after {
+         right: 6px;
+    }
+     footer h5 {
+         font-size: 15px;
+    }
+     footer ul li a {
+         font-size: 12px;
+    }
+     header .banner h1 {
+         font-size: 60px;
+    }
+     header .banner p {
+         font-size: 15px;
+         max-width: 250px;
+    }
+     header .banner .btn-danger {
+         margin-top: 5px !important;
+    }
+     .footer-buttom-inner p {
+         font-size: 11px;
+    }
+     .dowload-our h1 {
+         font-size: 27px;
+    }
+     .start-transformaing h1{
+         font-size: 27px;
+    }
+     #pills-tabContent h1{
+         font-size: 27px;
+    }
+     .take-the-next h1{
+         font-size: 27px;
+    }
+     .intofit-cocahing h1{
+         font-size: 27px;
+         text-align: center;
+    }
+     .feel-free h1{
+         font-size: 27px;
+    }
+    /*.intofit-cocahing{
+         text-align: center;
+    }
+    */
+     .intofit-cocahing p {
+         font-size: 13px;
+         text-align: left;
+    }
+     .clinet-slider-wraper h1{
+         font-size: 27px;
+    }
+     .Why-Choose-intofit h1{
+         font-size: 27px;
+    }
+     .Meet-Your-Trainer h1{
+         font-size: 27px;
+         text-align: center;
+    }
+     .fitness-all-about .main-title {
+         font-size: 27px;
+         max-width: 400px;
+    }
+     .Subscribe h1 {
+         font-size: 27px;
+    }
+     .fitness-all-about p {
+         font-size: 12px;
+    }
+     .service-slider .card p {
+         font-size: 12px;
+         padding: 0px 14px;
+    }
+     .Why-Choose-intofit p{
+         font-size: 13px;
+    }
+     a.chevron-down {
+         bottom: 9px;
+         font-size: 45px;
+    }
+     .take-the-next p {
+         font-size: 13px;
+         font-family: 'Poppins', sans-serif;
+         font-weight: 400;
+         text-align: center;
+    }
+     .intofit-cocahing-img {
+         text-align: center;
+    }
+     .feel-free p{
+         font-size: 14px;
+    }
+     .form {
+         background-color: rgb(0 0 0 / 24%);
+         min-height: 319px;
+         padding: 18px 14px;
+    }
+    .feel-free {
+         padding: 18px 0px;
+         text-align: center;
+         margin: 10px 0px;
+    }
+     #pills-tabContent p {
+         font-size: 13px;
+    }
+    header .phone-icon a { 
+    right: 21px;
+    height: 40px; 
+    width: 40px; 
+    font-size: 24px;
+    top: 397px;
+}
+}
+ @media (max-width: 576px) {
+     .Success-Stories .card p {
+         font-size: 11px;
+         margin-top: 15px;
+    }
+     .contact-us-list ul li a {
+         font-size: 10px;
+    }
+     .contact-us-list ul li {
+         margin-bottom: -4px;
+    }
+     header .navbar-brand img {
+         max-width: 80px;
+    }
+     .footer-buttom-inner p {
+         font-size: 10px;
+    }
+     .footer-buttom {
+         padding: 6px 0px;
+    }
+     .footer-buttom-inner {
+         display: -ms-inline-grid;
+         display: inline-grid;
+         -webkit-box-pack: center !important;
+             -ms-flex-pack: center !important;
+                 justify-content: center !important;
+         -ms-flex-wrap: wrap;
+             flex-wrap: wrap;
+         text-align: center;
+    }
+     .after-line-two:after {
+         display: none;
+    }
+     .Subscribe:after {
+         top: -192px;
+    }
+     a.chevron-down {
+         bottom: -7px;
+    }
+     header {
+         min-height: 356px !important;
+    }
+     header .banner h1 {
+         font-size: 35px;
+    }
+     header .banner p {
+         font-size: 13px;
+         max-width: 250px;
+    }
+    header .banner .btn-danger {
+    margin-top: 5px !important;
+    margin: auto;
+}
+     .form-control {
+         height: 35px;
+         font-size: 12px;
+    }
+     .dowload-our {
+         height: 748px;
+    }
+    .service-slider {
+         margin-top: -295px;
+    }
+}
+ @media (max-width: 480px) {
+     #pills-tabContent h1 {
+         font-size: 16px;
+    }
+     header {
+         min-height: 310px !important;
+    }
+    .clinet-slider-wraper .card {
+         max-width: 272px;
+         margin: auto;
+    }
+     header .banner p {
+         font-size: 12px;
+         max-width: 204px;
+    }
+     header .banner .btn-danger {
+         padding: 7px 5px;
+         font-size: 12px;
+    }
+     header .banner h1 {
+         font-size: 29px;
+    }
+     .intofit-cocahing h1{
+         font-size: 24px;
+    }
+     .dowload-our h1 {
+         font-size: 24px;
+    }
+     .start-transformaing h1{
+         font-size: 24px;
+    }
+     .clinet-slider-wraper h1{
+         font-size: 24px;
+    }
+     .Why-Choose-intofit h1{
+         font-size: 24px;
+    }
+     .Meet-Your-Trainer h1{
+         font-size: 24px;
+    }
+     .fitness-all-about .main-title {
+         font-size: 19px;
+         max-width: 400px;
+    }
+     .take-the-next h1{
+         font-size: 24px;
+    }
+     .Subscribe h1 {
+         font-size: 24px;
+    }
+     .feel-free h1{
+         font-size: 24px;
+    }
+}
+ 
